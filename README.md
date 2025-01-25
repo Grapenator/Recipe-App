@@ -1,4 +1,4 @@
-# Recipe Web App
+# Recipe App
 
 A dynamic web application for managing and sharing recipes. This app allows users to create, read, update, and delete recipes while offering a clean and responsive user interface. It also provides seamless recipe filtering and searching capabilities.
 
