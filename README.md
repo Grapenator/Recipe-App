@@ -5,8 +5,8 @@ A dynamic web application for managing and sharing recipes. This app allows user
 ## ✨ Features
 - **📋 Recipe Management**: Create, update, delete, and view recipes.
 - **🔍 Search and Filter**: Easily find recipes by name or category.
-- - **🖼️ Image Upload**: Upload recipe images directly from your local machine to enhance your recipes.
-  - 
+- **🖼️ Image Upload**: Upload recipe images directly from your local machine to enhance your recipes.
+
 <!--
 ## Screenshots 🎥
 - **Homepage**: Displays a list of recipes with search and filter functionality.
